@@ -1,42 +1,26 @@
-<p align="center"><a href="https://t.me/fridayot"><img src="https://telegra.ph/file/22535f8051a58af113586.jpg" width="5000"></a></p> 
-<h1 align="center"><b>FRIDAY-USERBOT 🇮🇳 </b></h1>
+<p align="center"><a href="https://t.me/fridayot"><img src="https://telegra.ph/file/47ea0bd1ab8f0a42620a6.jpg" width="5000"></a></p> 
+<h1 align="center"><b>FRIDAY-USERBOT 🇱🇰 </b></h1>
 <h4 align="center">A Powerful, Smart And Simple Userbot In Pyrogram.</h4>
 
-## Support 🚑
+## Support 
 <a href="https://t.me/FridaySupportOfficial"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
 <a href="https://t.me/fridayOT"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram"></a>
 
 
-# String Session - Pyrogram 🖱
-### Repl 🧨
+# String Session - Pyrogram 
+### Repl 
 [![Run on Repl.it](https://repl.it/badge/github/STARKGANG/friday)](https://replit.com/@MIDHUNKMKM/StringGen)
-### Locally 🏆
-```
-$ git clone https://github.com/DevsExpo/FridayUserbot
-$ cd FridayUserbot
-$ python(3) string_gen.py
-```
 
-# Hosting 🖥
 
-### Deploying To Heroku ⚙
+# Hosting 🌙
 
-[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/FridayDevs/Friday)
+### Deploying To Heroku 
 
-### Self-hosting (For Devs) ⚔
-```sh
-# Install Git First // (Else You Can Download And Upload to Your Local Server)
-$ git clone https://github.com/DevsExpo/FridayUserbot
-# Open Git Cloned File
-$ cd FridayUserbot
-# Install All Requirements 
-$ pip(3) install -r requirements.txt
-# Create local.env with variables as given below
-# Start Bot 
-$ python(3) -m main_startup
-```
+[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Captainamarica/Friday-user-bot-Navanjana)
 
-### Mandatory Configs 📒
+#
+
+### Mandatory Configs 🐾
 ```
 [+] Make Sure You Add All These Mandatory Vars. 
     [-] API_ID:   You can get this value from https://my.telegram.org
@@ -77,13 +61,3 @@ async def mentioned_(client, message):
 * Please Visit [Xtra-Plugins](https://github.com/DevsExpo/Xtra-Plugins) To Checkout Xtra-Plugins.
 
 
-# Licence 📋
-[![GNU GPLv3 Image](https://www.gnu.org/graphics/gplv3-127x51.png)](http://www.gnu.org/licenses/gpl-3.0.en.html)  
-
-* Copyright (C) 2020-2021 by DevsExpo@Github, < https://github.com/DevsExpo >.
-
-FridayUserbot is Free Software: You can use, study share and improve it at your
-will. Specifically you can redistribute and/or modify it under the terms of the
-[GNU General Public License](https://www.gnu.org/licenses/gpl.html) as
-published by the Free Software Foundation, either version 3 of the License, or
-(at your option) any later version. 
